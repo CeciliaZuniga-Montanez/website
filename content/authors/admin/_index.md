@@ -1,6 +1,7 @@
 ---
 title: Cecilia Zuniga-Montanez
-role: Postdoctoral Researcher at the University of Leeds
+role: Postdoctoral Researcher
+avatar_filename: fw7tis94_400x400.png
 bio: ""
 interests: []
 social:
