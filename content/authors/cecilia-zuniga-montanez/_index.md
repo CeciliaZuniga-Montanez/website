@@ -1,5 +1,5 @@
 ---
-title: Dr Cecilia Zuniga-Montanez
+title: Dr Cecilia Zuniga-Montanezz
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
 bio: ""
