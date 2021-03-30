@@ -23,8 +23,6 @@ experience:
     location: 'Leeds, UK'
     date_start: '2021-03-08'
     date_end: ''
-
-  experience:
   - title: 'Teaching Assistant'
     company: 'University of Birmingham'
     company_url: ''
