@@ -1,47 +1,37 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-# This file represents a page section.
+active: true
+date_format: Jan 2006
+experience:
+  - title: Postdoctoral Researcher
+    company: University of Leeds
+    company_url: ""
+    location: Leeds, UK
+    date_start: 2021-03-08
+    date_end: ""
+  - title: Teaching Assistant
+    company: University of Birmingham
+    company_url: ""
+    location: Birmingham, UK
+    date_start: 2018-02-01
+    date_end: 2020-02-01
+    description: >-
+      Responsibilities included leading workshops and seminar of the following
+      modules:
+
+      * Multisensory Development in Infancy and Childhood * Social Cognitive Development in Infancy and Childhood * Cognition in Infants and Children
+  - title: Coordinator of the Psycholinguistic Group
+    company: University of Birmingham
+    company_url: ""
+    location: Birmingham, UK
+    date_start: 2017-11-01
+    date_end: 2019-07-31
+    description: Responsibilities included coordinating lab meetings, organising
+      presentations of research conducted by staff and students, and organising
+      discussion sessions.
+widget_id: Research and Academic Experience
 headless: true
-# Order that this section appears on the page.
 weight: 40
 title: Research and Academic Experience
-subtitle:
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-# Experiences.
-#   Add/remove as many `experience` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with `>-`.
-experience:
-  - title: 'Postdoctoral Researcher'
-    company: 'University of Leeds'
-    company_url: ''
-    location: 'Leeds, UK'
-    date_start: '2021-03-08'
-    date_end: ''
-
-  - title: 'Teaching Assistant'
-    company: 'University of Birmingham'
-    company_url: ''
-    location: 'Birmingham, UK'
-    date_start: '2018-02-01'
-    date_end: '2020-02-01'
-    description: >-
-        Responsibilities included leading workshops and seminar of the following modules:
-        
-        * Multisensory Development in Infancy and Childhood
-        * Social Cognitive Development in Infancy and Childhood
-        * Cognition in Infants and Children
-
-  - title: 'Coordinator of the Psycholinguistic Group'
-    company: 'University of Birmingham'
-    company_url: ''
-    location: 'Birmingham, UK'
-    date_start: '2017-11-01'
-    date_end: '2019-07-31'
-    description: Responsibilities included coordinating lab meetings, organising presentations of research conducted by staff and students, and organising discussion sessions.
+subtitle: null
 ---
