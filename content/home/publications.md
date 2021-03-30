@@ -1,42 +1,24 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: "Publications "
 headless: true
-
-# Order that this section appears on the page.
 weight: 90
-
 title: Recent Publications
-subtitle: ''
-
+subtitle: ""
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
   count: 5
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 4
 ---
+**Zuniga-Montanez, C**., Kita, S., Aussems, S., & Krott, A., (accepted for publication in November 2020) Beyond the shape of things: Infants can be taught to generalise nouns by function. *Psychological Science*. doi: 10.1177/0956797621993107
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+**Zuniga-Montanez, C**. & Krott, A. (2017) *Vocabulary Intervention for Late Talkers*. Research protocol pre-registered at Clinicaltrials.org. Identifier: NCT03379818 *[https://clinicaltrials.gov/ct2/show/NCT03379818](*https://clinicaltrials.gov/ct2/show/NCT03379818*)*
