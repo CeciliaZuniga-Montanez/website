@@ -25,7 +25,7 @@ experience:
     location: California
     date_start: '2017-01-01'
     location: Leeds, UK
-    date_start: '08-03-2021'
+    date_start: '2021-03-08'
     date_end: ''
     description: |2-
         Responsibilities include:
