@@ -1,23 +1,13 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: Recent and Upcoming Talks
 headless: true
-
-# Order that this section appears on the page.
 weight: 70
-
-title: 'Recent & Upcoming Talks'
-subtitle:
-
+title: Recent & Upcoming Talks
+subtitle: null
 content:
-  # Page type to display. E.g. post, event, publication...
   page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
   count: 5
-  # Filter on criteria
   filters:
     author: ""
     category: ""
@@ -26,17 +16,13 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 2
 ---
-Zuniga-Montanez, C., Kita, S., Aussems, S., & Krott, A., (2021) Beyond the shape of things: Infants can be taught to generalise nouns by function. Communication Development Lab, Psychology Department, University of Warwick, UK
+Zuniga-Montanez, C., Kita, S., Aussems, S., & Krott, A., (2021) **Word learning biases as strategies to boost vocabulary development.** Developmental Group, Department of Psychology, University of York, UK
+
+Zuniga-Montanez, C., Kita, S., Aussems, S., & Krott, A., (2021) **Beyond the shape of things: Infants can be taught to generalise nouns by function.** Communication Development Lab, Psychology Department, University of Warwick, UK
+
+Zuniga-Montanez, C. (2020) **Specific Language Impairment and Late Talkers.** Development and Disorders of Language in Children- Third-year module of BSC in Psychology, School of Psychology, University of Birmingham, UK
