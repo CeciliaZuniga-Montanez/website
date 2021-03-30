@@ -26,4 +26,8 @@ experience:
 
   - title: 'Teaching Assistant'
     company: 'University of Birmingham'
+    company_url: ''
+    location: 'Birmingham, UK'
+    date_start: '2018-02-01'
+    date_end: '2020-02-01'
 ---
