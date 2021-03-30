@@ -37,7 +37,7 @@ experience:
     location: 'Birmingham, UK'
     date_start: '2018-02-01'
     date_end: '2020-02-01'
-    # description: >-
+    description: >-
          Responsibilities include:
         
         * Leading seminars and workshops of the following modules: Multisensory Development in Infancy and Childhood, Social Cognitive Development in Infancy and Childhood and Cognition in Infants and Children
