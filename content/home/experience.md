@@ -17,11 +17,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Postdoctoral Researcher'
+    company: 'University of Leeds'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
+    location: 'Leeds, UK'
+    date_start: '2021-03-08'
     date_end: ''
     description: >-
         Responsibilities include:
