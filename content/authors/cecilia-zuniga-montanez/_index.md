@@ -29,7 +29,7 @@ education:
       institution: Universidad Iberoamericana, Mexico
       year: 2012
 email: cecilia.zunigam@hotmail.com
-superuser: true
+superuser: false
 highlight_name: false
 ---
 Hi, I am Cecilia. I am  a postdoctoral research assistant at the University of Leeds. I am working with Dr Cat Davies on the impact phase of the project *Children Learning Adjectives*. Previously, I completed my PhD at the University of Birmingham, where I investigated language development and vocabulary learning in typically developing infants and children with language delays. I investigated how typically developing infants, late talkers and children born preterm learn words and the word learning biases they use. My research also included two vocabulary interventions, one for typically developing infants and one for late talkers, aimed at boosting vocabulary learning.
