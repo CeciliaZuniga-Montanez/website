@@ -39,3 +39,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+Zuniga-Montanez, C., Kita, S., Aussems, S., & Krott, A., (2021) Beyond the shape of things: Infants can be taught to generalise nouns by function. Communication Development Lab, Psychology Department, University of Warwick, UK
