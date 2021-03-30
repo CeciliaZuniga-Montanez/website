@@ -40,7 +40,7 @@ experience:
   - title: 'Coordinator of the Psycholinguistic Group'
     company: 'University of Birmingham'
     company_url: ''
-    location: 'Leeds, UK'
+    location: 'Birmingham, UK'
     date_start: '2017-11-01'
     date_end: '2019-07-31'
     description: Responsibilities included coordinating lab meetings, organising presentations of research conducted by staff and students, and organising discussion sessions.
