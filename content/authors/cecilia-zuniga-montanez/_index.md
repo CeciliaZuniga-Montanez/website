@@ -36,6 +36,6 @@ Hi, I am Cecilia. I am currently a postdoctoral research assistant at the Univer
 
 
 
-My reserch interests are: 
+My reserch interests are: infant and child language development; late talkers; children born preterm; vocabulary interventions; developmental psychology;
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
