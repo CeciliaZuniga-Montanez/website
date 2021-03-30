@@ -33,7 +33,7 @@ experience:
     description: >-
         Responsibilities include leading workshops and seminar of the following modules:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Multisensory Development in Infancy and Childhood
+        * Social Cognitive Development in Infancy and Childhood
+        * Cognition in Infants and Children
 ---
