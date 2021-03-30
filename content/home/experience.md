@@ -23,18 +23,5 @@ experience:
     location: 'Leeds, UK'
     date_start: '2021-03-08'
     date_end: ''
-  - title: 'Teaching Assistant'
-    company: 'University of Birmingham'
-    company_url: ''
-    location: 'Birmingham, UK'
-    date_start: '2018-02-01'
-    date_end: '2020-02-01'
-    description: >- 
-    Responsibilities include leading seminars and workshops of the following modules:
-        * Multisensory Development in Infancy and Childhood
-        * Social Cognitive Development in Infancy and Childhood
-        * Cognition in Infants and Children 
-       >-
-
 
 ---
