@@ -41,7 +41,8 @@ experience:
          Responsibilities include leading seminars and workshops of the following modules:
         * Multisensory Development in Infancy and Childhood
         * Social Cognitive Development in Infancy and Childhood
-        * Cognition in Infants and Children >-
+        * Cognition in Infants and Children 
+       >-
 
 
 ---
