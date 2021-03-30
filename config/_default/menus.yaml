@@ -9,6 +9,7 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
+    url: '#professional-experience'
     weigth: 20
   - name: Posts
     url: '#posts'
