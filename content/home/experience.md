@@ -24,4 +24,6 @@ experience:
     date_start: '2021-03-08'
     date_end: ''
 
+  - title: 'Teaching Assistant'
+    company: 'University of Birmingham'
 ---
