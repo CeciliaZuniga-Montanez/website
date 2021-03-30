@@ -23,13 +23,7 @@ experience:
     location: 'Leeds, UK'
     date_start: '2021-03-08'
     date_end: ''
-    # description: >-
-        # Responsibilities include:
-        
-       # * co-organised and 
-       # * Modelling
-       # * Deploying
-       
+
   experience:
   - title: 'Teaching Assistant'
     company: 'University of Birmingham'
