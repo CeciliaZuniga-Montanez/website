@@ -6,7 +6,7 @@ widget: experience
 headless: true
 # Order that this section appears on the page.
 weight: 40
-title: Research Experience
+title: Research and Academic Experience
 subtitle:
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,5 +29,18 @@ experience:
        # * co-organised and 
        # * Modelling
        # * Deploying
+       
+  experience:
+  - title: 'Teaching Assistant'
+    company: 'University of Birmingham'
+    company_url: ''
+    location: 'Birmingham, UK'
+    date_start: '2018-02-01'
+    date_end: '2020-02-01'
+    # description: >-
+         Responsibilities include:
+        
+        * Leading seminars and workshops of the following modules: Multisensory Development in Infancy and Childhood, Social Cognitive Development in Infancy and Childhood and Cognition in Infants and Children
+
 
 ---
