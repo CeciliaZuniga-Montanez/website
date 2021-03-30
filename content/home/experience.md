@@ -9,15 +9,7 @@ experience:
     location: Leeds, UK
     date_start: 08-03-2021
     date_end: ""
-    description: |-2
-       # Responsibilities include:
-        
-        # * Analysing
-        # * Modelling
-        # * Deploying
-widget_id: Experience
-headless: true
-weight: 40
-title: Experience
-subtitle: null
+   # description: |-2
+     
+       
 ---
