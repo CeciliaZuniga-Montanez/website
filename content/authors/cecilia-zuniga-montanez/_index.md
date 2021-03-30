@@ -1,5 +1,5 @@
 ---
-title: Dr Cecilia Zuniga-Montanezz
+title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
 bio: ""
@@ -34,8 +34,4 @@ highlight_name: false
 ---
 Hi, I am Cecilia. I am currently a postdoctoral research assistant at the University of Leeds. I am working with Dr Cat Davies on the impact phase of the project *Children Learning Adjectives*. Previously, I completed my PhD at the University of Birmingham, where I investigated language development and vocabulary learning in typically developing infants and children with language delays. I investigated how typically developing infants, late talkers and children born preterm learn words and the word learning biases they use. My research also included two vocabulary interventions, one for typically developing infants and one for late talkers, aimed at boosting vocabulary learning.
 
-
-
-My reserch interests are: infant and child language development; late talkers; children born preterm; vocabulary interventions; developmental psychology;
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests are: infant and child language development; late talkers; children born preterm; vocabulary interventions; developmental psychology;
