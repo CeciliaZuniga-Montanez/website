@@ -30,4 +30,10 @@ experience:
     location: 'Birmingham, UK'
     date_start: '2018-02-01'
     date_end: '2020-02-01'
+    description: >-
+        Responsibilities include leading workshops and seminar of the following modules:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 ---
