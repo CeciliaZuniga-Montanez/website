@@ -29,10 +29,10 @@ experience:
     date_start: '08-03-2021'
     date_end: ''
     description: |2-
-        Responsibilities include:
+       # Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        # * Analysing
+        # * Modelling
+        # * Deploying
  
 ---
