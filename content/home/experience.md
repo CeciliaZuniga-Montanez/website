@@ -21,7 +21,9 @@ experience:
       modules:
 
       * Multisensory Development in Infancy and Childhood
+      
       * Social Cognitive Development in Infancy and Childhood
+      
       * Cognition in Infants and Children
   - title: Coordinator of the Psycholinguistic Group
     company: University of Birmingham
@@ -38,6 +40,7 @@ experience:
     date_end: 2016-07-31
     description: >-
       Preschool teacher for children between 3 to 4 years of age.
+      
       English teacher for children between 3 to 5 years of age.
   - title: Special Needs Support Worker
     company: Private practice
@@ -53,6 +56,15 @@ experience:
     date_start: 2015-05-01
     date_end: 2015-07-31
     description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
+  - title: Special Needs Lead Worker
+    company: CETI Creciendo Juntos
+    company_url: ""
+    location: Mexico
+    date_start: 2012-08-01
+    date_end: 2013-06-31
+    description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
+![image](https://user-images.githubusercontent.com/81574617/113875899-1e65ef80-97af-11eb-9713-39bd1f2cea7c.png)
+
 widget_id: Research and Academic Experience
 headless: true
 title: Research and Academic Experience
