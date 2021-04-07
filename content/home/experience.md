@@ -51,7 +51,7 @@ experience:
     company_url: ""
     location: Mexico
     date_start: 2012-08-01
-    date_end: 2013-06-31
+    date_end: 2013-06-01
     description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
 widget_id: Research and Academic Experience
 headless: true
