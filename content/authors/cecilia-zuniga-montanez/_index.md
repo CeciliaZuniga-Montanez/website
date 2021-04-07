@@ -28,7 +28,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: cecilia.zunigam@hotmail.com
+email: C.C.ZunigaMontanez@leeds.ac.uk
 superuser: true
 highlight_name: false
 ---
