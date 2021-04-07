@@ -20,7 +20,9 @@ experience:
       Responsibilities included leading workshops and seminar of the following
       modules:
 
-      * Multisensory Development in Infancy and Childhood * Social Cognitive Development in Infancy and Childhood * Cognition in Infants and Children
+      * Multisensory Development in Infancy and Childhood
+      * Social Cognitive Development in Infancy and Childhood
+      * Cognition in Infants and Children
   - title: Coordinator of the Psycholinguistic Group
     company: University of Birmingham
     company_url: ""
@@ -30,6 +32,13 @@ experience:
     description: Responsibilities included coordinating lab meetings, organising
       presentations of research conducted by staff and students, and organising
       discussion sessions.
+  - title: Preschool teacher
+    company: SPLENDI Preschool
+    company_url: ""
+    location: Mexico
+    date_start: 2015-08-01
+    date_end: 2016-07-31
+    description:Preschool teacher for children between 3 to 4 years of age and English teacher for children between 3 to 5 years of age.
 widget_id: Research and Academic Experience
 headless: true
 title: Research and Academic Experience
