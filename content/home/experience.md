@@ -37,6 +37,7 @@ experience:
     date_start: 2015-03-01
     date_end: 2016-07-31
     description: Support for children diagnosed with language disorders, learning disabilities and developmental disorders.
+    
   - title: Special Needs Lead Worker
     company: CETI Creciendo Juntos
     company_url: ""
