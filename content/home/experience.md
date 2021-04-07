@@ -21,7 +21,9 @@ experience:
       modules:
 
       * Multisensory Development in Infancy and Childhood
+      *
       * Social Cognitive Development in Infancy and Childhood
+      * 
       * Cognition in Infants and Children
   - title: Coordinator of the Psycholinguistic Group
     company: University of Birmingham
