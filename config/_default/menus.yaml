@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weigth: 20
+    weigth: 30
   - name: Posts
     url: '#posts'
-    weight: 30
+    weight: 20
   - name: Projects
     url: '#projects'
     weight: 40
