@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weigth: 20
+    weigth: 30
  #removing this - name: Posts
   #removing this    url: '#posts'
   #removing this   weight: 30
@@ -18,13 +18,13 @@ main:
   #removing this    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 60
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
