@@ -32,7 +32,6 @@ experience:
       discussion sessions.
 widget_id: Research and Academic Experience
 headless: true
-weight: 40
 title: Research and Academic Experience
 subtitle: null
 ---
