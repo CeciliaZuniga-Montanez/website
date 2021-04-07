@@ -3,7 +3,11 @@ title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Researcher
 avatar_filename: fw7tis94_400x400.png
 bio: ""
-interests: [infant and child language development; late talkers; children born preterm; vocabulary interventions; developmental psychology]
+interests: [Infant and child language development
+Late talkers
+Children born preterm
+Vocabulary interventions
+Developmental psychology]
 social:
   - display:
       header: true
