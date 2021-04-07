@@ -30,14 +30,14 @@ experience:
     date_start: 2017-11-01
     date_end: 2019-07-31
     description: Responsibilities included coordinating lab meetings, organising presentations of research conducted by staff and students, and organising discussion sessions.
-   - title: Special Needs Support Worker
+  - title: Special Needs Support Worker
     company: Private practice
     company_url: ""
     location: Mexico
     date_start: 2015-03-01
     date_end: 2016-07-31
     description:Support for children diagnosed with language disorders, learning disabilities and developmental disorders.
-   - title: Special Needs Lead Worker
+  - title: Special Needs Lead Worker
     company: CETI: Creciendo Juntos
     company_url: ""
     location: Mexico
