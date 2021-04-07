@@ -17,8 +17,8 @@ experience:
     date_start: 2018-02-01
     date_end: 2020-02-01
     description: >-
-      Responsibilities included leading workshops and seminar of the following
-      modules:
+      Responsibilities included leading workshops and seminar of the following modules:
+      
       * Multisensory Development in Infancy and Childhood
       * Social Cognitive Development in Infancy and Childhood
       * Cognition in Infants and Children
@@ -36,6 +36,15 @@ experience:
     date_start: 2015-03-01
     date_end: 2016-07-31
     description: Support for children diagnosed with language disorders, learning disabilities and developmental disorders.
+  - title: Preschool teacher
+    company: SPLENDI Preschool
+    company_url: ""
+    location: Mexico
+    date_start: 2015-08-01
+    date_end: 2016-07-01
+    description: >-
+      Preschool teacher for children between 3 to 4 years of age.
+      English teacher for children between 3 to 5 years of age.
 widget_id: Research and Academic Experience
 headless: true
 title: Research and Academic Experience
