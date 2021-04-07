@@ -30,15 +30,6 @@ experience:
     date_start: 2017-11-01
     date_end: 2019-07-31
     description: Responsibilities included coordinating lab meetings, organising presentations of research conducted by staff and students, and organising discussion sessions.
-  - title: Preschool teacher
-    company: SPLENDI Preschool
-    company_url: ""
-    location: Mexico
-    date_start: 2015-08-01
-    date_end: 2017-07-01
-    description: >-
-      Preschool teacher for children between 3 to 4 years of age.
-      English teacher for children between 3 to 5 years of age.
   - title: Special Needs Support Worker
     company: Private practice
     company_url: ""
