@@ -44,7 +44,7 @@ experience:
     date_start: 2015-05-01
     date_end: 2015-07-31
     description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
-   - title: Special Needs Lead Worker
+  - title: Special Needs Lead Worker
     company: CETI: Creciendo Juntos
     company_url: ""
     location: Mexico
