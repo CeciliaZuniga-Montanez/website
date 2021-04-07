@@ -4,7 +4,7 @@ weight: 30
 active: true
 widget_id: Research and Academic Experience
 headless: true
-title:Experience
+title: Research and Academic Experience
 date_format: Jan 2006
 experience:
   - title: Postdoctoral Researcher
