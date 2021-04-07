@@ -38,9 +38,9 @@ experience:
     location: Mexico
     date_start: 2015-08-01
     date_end: 2016-07-31
-    description:>-
-    Preschool teacher for children between 3 to 4 years of age.
-    English teacher for children between 3 to 5 years of age.
+    description: >-
+      Preschool teacher for children between 3 to 4 years of age.
+      English teacher for children between 3 to 5 years of age.
    - title: Special Needs Support Worker
     company: Private practice
     company_url: ""
