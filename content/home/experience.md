@@ -19,12 +19,9 @@ experience:
     description: >-
       Responsibilities included leading workshops and seminar of the following
       modules:
-
-      * Multisensory Development in Infancy and Childhood
-      *
-      * Social Cognitive Development in Infancy and Childhood
-      * 
-      * Cognition in Infants and Children
+      - Multisensory Development in Infancy and Childhood
+      - Social Cognitive Development in Infancy and Childhood
+      - Cognition in Infants and Children
   - title: Coordinator of the Psycholinguistic Group
     company: University of Birmingham
     company_url: ""
