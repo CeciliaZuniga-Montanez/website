@@ -3,7 +3,7 @@ title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Researcher
 avatar_filename: fw7tis94_400x400.png
 bio: ""
-interests: []
+interests: [trial]
 social:
   - display:
       header: true
