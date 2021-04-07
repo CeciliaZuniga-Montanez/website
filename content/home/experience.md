@@ -2,6 +2,9 @@
 widget: experience
 weight: 30
 active: true
+widget_id: Research and Academic Experience
+headless: true
+title:Experience
 date_format: Jan 2006
 experience:
   - title: Postdoctoral Researcher
@@ -53,8 +56,5 @@ experience:
     date_start: 2012-08-01
     date_end: 2013-06-01
     description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
-widget_id: Research and Academic Experience
-headless: true
-title: Research and Academic Experience
 subtitle: null
 ---
