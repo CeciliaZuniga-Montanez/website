@@ -2,9 +2,9 @@
 widget: experience
 weight: 30
 active: true
-widget_id: Research and Academic Experience
+widget_id: Experience
 headless: true
-title: Research and Academic Experience
+title: Experience
 date_format: Jan 2006
 experience:
   - title: Postdoctoral Researcher
