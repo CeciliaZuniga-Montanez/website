@@ -1,5 +1,6 @@
 ---
 widget: experience
+weight: 30
 active: true
 date_format: Jan 2006
 experience:
