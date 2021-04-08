@@ -3,7 +3,9 @@ title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Researcher
 avatar_filename: fw7tis94_400x400.png
 bio: ""
-interests: [Infant and child language development; Late talkers; Children born preterm; Vocabulary interventions; Developmental psychology]
+interests:
+  - Infant and child language development; Late talkers; Children born preterm;
+    Vocabulary interventions; Developmental psychology
 social:
   - display:
       header: true
@@ -17,6 +19,7 @@ social:
     icon: <i class="fab fa-twitter"></i>
 organizations:
   - name: University of Leeds
+    url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
   courses:
     - course: PhD in Psychology
