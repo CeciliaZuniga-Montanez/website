@@ -10,7 +10,7 @@ social:
     link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
     icon_pack: fas
     icon: <i class="fab fa-linkedin"></i>
-  - display: yes
+  - display: 
       header: true
     link: https://twitter.com/CeciZunigaM
     icon_pack: fas
