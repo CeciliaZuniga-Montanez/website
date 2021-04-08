@@ -17,6 +17,7 @@ social:
     icon: <i class="fab fa-twitter"></i>
 organizations:
   - name: University of Leeds
+    url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
   courses:
     - course: PhD in Psychology
