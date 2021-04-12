@@ -57,7 +57,7 @@ experience:
       communication skills that could help them be more independent.
 widget_id: Experience
 headless: true
-weight: 80
+weight: 20
 title: Experience
 subtitle: null
 ---
