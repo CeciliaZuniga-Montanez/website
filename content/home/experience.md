@@ -31,8 +31,7 @@ experience:
     date_start: 2017-11-01
     date_end: 2019-07-31
     description: >-
-      Responsibilities included leading workshops and seminar of the following
-      modules:
+      Responsibilities included:
       
       * Coordinating lab meetings
 
