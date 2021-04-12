@@ -6,19 +6,19 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 20
   - name: Experience
     url: '#experience'
-    weigth: 20
+    weigth: 30
   - name: Talks
     url: '#talks'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
     
  #removing this - name: Posts
   #removing this    url: '#posts'
