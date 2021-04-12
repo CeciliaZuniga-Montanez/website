@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Recent and Upcoming Talks
 headless: true
-weight: 30
+weight: 40
 title: Recent & Upcoming Talks
 subtitle: null
 content:
