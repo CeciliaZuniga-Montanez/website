@@ -10,16 +10,17 @@ interests:
   - Vocabulary interventions
   - Developmental psychology
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
+  label: Follow me on Twitter
+  display:
+    header: true
   - display:
       header: true
     link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
     icon_pack: fas
     icon: <i class="fab fa-linkedin"></i>
-  - display:
-      header: true
-    link: https://twitter.com/CeciZunigaM
-    icon_pack: fas
-    icon: <i class="fab fa-twitter"></i>
 organizations:
   - name: University of Leeds
     url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
