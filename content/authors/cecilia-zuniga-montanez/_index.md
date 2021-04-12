@@ -7,7 +7,7 @@ interests:
 - Artificial Intelligence
 - Infant and child language development; Late talkers; Children born preterm; Vocabulary interventions; Developmental psychology
 social:
-  - display: true
+  - display:
       header: true
     link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
     icon_pack: fas
