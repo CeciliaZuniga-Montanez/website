@@ -3,7 +3,9 @@ title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
 bio: ""
-interests: []
+interests: 
+- Artificial Intelligence
+- Infant and child language development; Late talkers; Children born preterm; Vocabulary interventions; Developmental psychology
 social:
   - display:
       header: true
