@@ -10,6 +10,9 @@ interests:
   - Vocabulary interventions
   - Developmental psychology
 social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
