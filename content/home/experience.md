@@ -54,9 +54,9 @@ experience:
     date_start: 2015-08-01
     date_end: 2016-07-01
     description: >-
-      Preschool teacher for children between 3 to 4 years of age.
+      * Preschool teacher for children between 3 to 4 years of age.
       
-      English teacher for children between 3 to 5 years of age.
+      * English teacher for children between 3 to 5 years of age.
   - title: Special Needs Lead Worker
     company: CETI Creciendo Juntos
     company_url: ""
