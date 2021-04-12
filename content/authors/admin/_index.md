@@ -15,7 +15,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
+  link: https://twitter.com/CeciZunigaM
   label: Follow me on Twitter
 - icon: linkedin
   icon_pack: fab
