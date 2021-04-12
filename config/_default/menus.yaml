@@ -10,6 +10,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
+  - name: Talks
+    url: '#talks'
+    weight: 40
 
  #removing this - name: Posts
   #removing this    url: '#posts'
