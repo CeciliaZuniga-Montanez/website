@@ -10,15 +10,18 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#publications'
+    weight: 40
+  - name: Talks
+    url: '#talks'
     weight: 50
+  - name: Events
+    url: '#events'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
  #removing this - name: Posts
   #removing this    url: '#posts'
