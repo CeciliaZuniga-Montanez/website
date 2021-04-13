@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Late Talkers workshop 2021
 cms_exclude: true
 
 # View.
