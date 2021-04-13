@@ -40,3 +40,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+  - name: LateTalkers
+    url: '#LT'
