@@ -11,7 +11,7 @@ publishDate: 2021-04-19T10:14:01.688Z
 draft: false
 featured: false
 image:
-  filename: LT.jpg
+  filename: featured
   focal_point: TOPRIGHT
   preview_only: false
 ---
