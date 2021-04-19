@@ -15,8 +15,8 @@ draft: false
 featured: false
 image:
   filename: LT.jpg
-  focal_point: Smart
-  preview_only: false
+  focal_point: TOPRIGHT
+  preview_only: true
 ---
 <!--StartFragment-->
 
