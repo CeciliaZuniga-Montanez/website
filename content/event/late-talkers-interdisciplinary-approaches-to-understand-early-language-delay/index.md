@@ -1,6 +1,6 @@
 ---
 title: "Late talkers: Interdisciplinary approaches to understand early language delay"
-abstract: x
+abstract: ""
 location: "Online "
 date: 2021-08-23T12:45:00.000Z
 date_end: 2021-08-24T16:30:00.000Z
