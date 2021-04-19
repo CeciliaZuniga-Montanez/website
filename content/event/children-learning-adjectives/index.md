@@ -1,12 +1,12 @@
 ---
 title: Children Learning Adjectives
-abstract: Perspectives from psychological research, the primary classroom, and
-  speech and language therapy
+abstract: ""
 location: Online
 date: 2021-03-18T13:00:35.694Z
-date_end: 2021-04-19T10:57:34.973Z
+date_end: 2021-04-18T17:00:34.973Z
 all_day: false
-event: Children Learning Adjectives
+event: Children Learning Adjectives - Perspectives from psychological research, the primary classroom, and
+  speech and language therapy
 event_url: https://sites.google.com/view/children-learning-adjectives/home
 publishDate: 2021-04-19T10:56:35.724Z
 draft: false
