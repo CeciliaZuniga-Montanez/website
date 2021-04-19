@@ -27,7 +27,6 @@ For more information, please visit the event [website.](https://sites.google.com
 
 
 Local Organisers:
-
-Dr [Cat Davies](https://www.google.com/url?q=https%3A%2F%2Fahc.leeds.ac.uk%2Flanguages%2Fstaff%2F699%2Fdr-catherine-davies&sa=D&sntz=1&usg=AFQjCNFWOJHfHP8EFp_gnaQM1mhMbyIrvQ) and [Dr Cecilia Zuniga-Montanez](https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez) (University of Leeds)
+[Dr Cat Davies](https://www.google.com/url?q=https%3A%2F%2Fahc.leeds.ac.uk%2Flanguages%2Fstaff%2F699%2Fdr-catherine-davies&sa=D&sntz=1&usg=AFQjCNFWOJHfHP8EFp_gnaQM1mhMbyIrvQ) and [Dr Cecilia Zuniga-Montanez](https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez) (University of Leeds)
 
 <!--EndFragment-->
