@@ -1,5 +1,5 @@
 ---
-title: Children Learning Adjectives
+title: **Children Learning Adjectives**
 abstract: ""
 location: Online
 date: 2021-03-18T13:00:35.694Z
