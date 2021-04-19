@@ -40,5 +40,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-- name: LT
-  url: '#late-talkers-interdisciplinary-approaches-to-understand-early-language-delay'
+
