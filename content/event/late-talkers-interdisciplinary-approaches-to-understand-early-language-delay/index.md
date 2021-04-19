@@ -1,5 +1,5 @@
 ---
-title: "Late talkers: Interdisciplinary approaches to understand early language delay"
+title: "**Late talkers: Interdisciplinary approaches to understand early language delay**"
 abstract: ""
 location: "Online"
 date: 2021-08-23
@@ -25,6 +25,6 @@ The aim of this workshop is to bring together researchers from different discipl
 
 This event is hosted by the University of Warwick and is organized by [Dr Eva Jimenez](https://www.linkedin.com/in/eva-jim%C3%A9nez-01a689200/?originalSubdomain=uk), [Dr Cecilia Zuniga-Montanez ](https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez)and [Professor Sotaro Kita](https://warwick.ac.uk/fac/sci/psych/people/skita/).
 
-For more information visit our [website](https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/)or email me at C.C.ZunigaMontanez@leeds.ac.uk 
+For more information visit our [website](https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/) or email me at C.C.ZunigaMontanez@leeds.ac.uk 
 
 <!--EndFragment-->
