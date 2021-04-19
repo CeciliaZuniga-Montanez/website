@@ -8,13 +8,13 @@ location: "Online "
 date: 2021-08-23T12:45:00.000Z
 date_end: 2021-08-24T16:30:00.000Z
 all_day: false
-event: LT
+event: "Late talkers: Interdisciplinary approaches to understand early language delay"
 event_url: https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/
 publishDate: 2021-04-19T10:14:01.688Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: LT.jpg
   focal_point: Smart
   preview_only: false
 ---
