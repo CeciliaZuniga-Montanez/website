@@ -23,7 +23,7 @@ The aim of this workshop is to bring together researchers from different discipl
 
 **Speakers:** TBC
 
-This event is hosted by the University of Warwick and is organized by [Dr Eva Jimenez](https://www.linkedin.com/in/eva-jim%C3%A9nez-01a689200/?originalSubdomain=uk) (university of Warwick), [Dr Cecilia Zuniga-Montanez ](https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez) (University of Leeds) and [Professor Sotaro Kita](https://warwick.ac.uk/fac/sci/psych/people/skita/) (University of Warwick).
+This event is hosted by the University of Warwick and is organized by [Dr Eva Jimenez](https://www.linkedin.com/in/eva-jim%C3%A9nez-01a689200/?originalSubdomain=uk) (University of Warwick), [Dr Cecilia Zuniga-Montanez ](https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez) (University of Leeds) and [Professor Sotaro Kita](https://warwick.ac.uk/fac/sci/psych/people/skita/) (University of Warwick).
 
 For more information visit our [website](https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/) or email me at C.C.ZunigaMontanez@leeds.ac.uk 
 
