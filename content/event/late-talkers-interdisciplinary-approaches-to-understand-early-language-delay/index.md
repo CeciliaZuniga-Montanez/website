@@ -12,7 +12,7 @@ draft: false
 featured: false
 image:
   filename: featured
-  focal_point: TOPRIGHT
+  focal_point: CENTER
   preview_only: false
 ---
 <!--StartFragment-->
