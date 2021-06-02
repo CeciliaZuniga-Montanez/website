@@ -20,5 +20,7 @@ We are living in an unprecedented historical moment, in which access to truthful
 
 The first international congress of the alumni network #SomosIbero will have more than 80 speakers and will have three thematic lines. The first one dedicated to the talent of graduates who live abroad and who make up the Alumni Network #SomosIbero in the World; the second one will focus on a vision towards the future and, in the third, graduates of different academic programs and generations that have excelled in their professions will share their success stories with the audience. 
 
+---
 image:
   filename: program
+---
