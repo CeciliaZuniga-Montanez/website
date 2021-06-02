@@ -27,5 +27,6 @@ This event is hosted by the University of Warwick and is organized by [Dr Eva Ji
 
 For more information visit our [website](https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/) or email me at C.C.ZunigaMontanez@leeds.ac.uk 
 
-[Poster_call.pdf](https://github.com/CeciliaZuniga-Montanez/website/files/6585095/Poster_call.pdf)
+![Poster_call](https://user-images.githubusercontent.com/81574617/120495097-4a1ee380-c3b4-11eb-9be3-04db089b2075.jpg)
+
 <!--EndFragment-->
