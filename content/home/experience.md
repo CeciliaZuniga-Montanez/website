@@ -9,7 +9,7 @@ experience:
     location: Leeds, UK
     date_start: 2021-03-08
     date_end: 2021-09-30
-    description: I am working as a postdoctoral researcher with Dr Cat Davies on the impact phase of the project Children Learning Adjectives.
+    description: Postdoctoral researcher at the [University of Leeds] (https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez) where I worked with Dr Cat Davies on the impact phase of the project *Children Learning Adjectives*.
   - title: Teaching Assistant
     company: University of Birmingham
     company_url: ""
