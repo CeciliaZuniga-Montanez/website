@@ -8,7 +8,7 @@ experience:
     company_url: ""
     location: Leeds, UK
     date_start: 2021-03-08
-    date_end: ""
+    date_end: 2021-09-30
     description: I am working as a postdoctoral researcher with Dr Cat Davies on the impact phase of the project Children Learning Adjectives.
   - title: Teaching Assistant
     company: University of Birmingham
