@@ -21,8 +21,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
 organizations:
-  - name: University of Leeds
-    url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
+  - name: National Institute of Economic and Social Research (NIESR)
+    url: 
 education:
   courses:
     - course: PhD in Psychology
@@ -34,7 +34,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: C.C.ZunigaMontanez@leeds.ac.uk
+email: C.Zuniga- Montanez@niesr.ac.uk
 superuser: true
 highlight_name: true
 ---
