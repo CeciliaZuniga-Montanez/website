@@ -34,7 +34,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: C.Zuniga- Montanez@niesr.ac.uk
+email: C.Zuniga-Montanez@niesr.ac.uk
 superuser: true
 highlight_name: true
 ---
