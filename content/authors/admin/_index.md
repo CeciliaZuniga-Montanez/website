@@ -38,6 +38,4 @@ email: C.C.ZunigaMontanez@leeds.ac.uk
 superuser: true
 highlight_name: true
 ---
-Hi, I am Cecilia. I am a postdoctoral research assistant at the University of Leeds working with Dr Cat Davies on the impact phase of the project Children Learning Adjectives. Previously, I completed my PhD at the University of Birmingham, where I investigated language development and vocabulary learning in typically developing infants and children with language delays. More specifically, I investigated how typically developing infants, late talkers and children born preterm learn words and the word learning biases they use. My research also included two vocabulary interventions, one for typically developing infants and one for late talkers, aimed at boosting vocabulary learning.
-
-
+Hi, I am Cecilia. I am a Postdoctoral Research Associate at the National Institute of Economic and Social Research (NIESR) working on a project exploring the impact of Covid-19 on children's language, educational and socioemotional skills. Prior to this, I worked as a postdoctoral researcher at the University of Leeds with Dr Cat Davies on the impact phase of the project Children Learning Adjectives. My areas of interest include infant and child language and cognitive development, language delays and vocabulary interventions.
