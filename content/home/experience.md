@@ -3,6 +3,13 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Postdoctoral Research Associate
+    company: National Institute of Economic and Social Research (NIESR)
+    company_url: ""
+    location: London, UK
+    date_start: 2021-10-01
+    date_end: ""
+    description: Postdoctoral Research Associate
   - title: Postdoctoral Researcher
     company: University of Leeds
     company_url: ""
