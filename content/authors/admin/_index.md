@@ -1,6 +1,6 @@
 ---
 title: Dr Cecilia Zuniga-Montanez
-role: [Postdoctoral Research Associate](https://www.niesr.ac.uk/users/czm)
+role: Postdoctoral Research Associate
 avatar_filename: fw7tis94_400x400.png
 bio: ""
 interests:
