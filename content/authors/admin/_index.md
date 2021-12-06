@@ -22,7 +22,7 @@ social:
   link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
 organizations:
   - name: National Institute of Economic and Social Research (NIESR)
-    url: https://www.niesr.ac.uk/users/czm
+    url: https://www.niesr.ac.uk/people/zuniga-montanez-c
 education:
   courses:
     - course: PhD in Psychology
