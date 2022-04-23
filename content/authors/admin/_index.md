@@ -23,6 +23,9 @@ social:
 organizations:
   - name: National Institute of Economic and Social Research (NIESR)
     url: https://www.niesr.ac.uk/people/zuniga-montanez-c
+role: Postdoctoral Research Associate
+  - name: University of Leeds
+    url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
   courses:
     - course: PhD in Psychology
