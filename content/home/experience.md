@@ -6,7 +6,7 @@ experience:
   - title: Postdoctoral Research Assistant
     company: University of Leeds, UK
     company_url: ""
-    location: London, UK
+    location: Leeds, UK
     date_start: 2022-04-01
     date_end: ""
     description: Postdoctoral Research Assistant
