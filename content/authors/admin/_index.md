@@ -1,6 +1,7 @@
 ---
 title: Dr Cecilia Zuniga-Montanez
 role: Postdoctoral Research Associate
+     Postdoctoral Research Associate
 avatar_filename: fw7tis94_400x400.png
 bio: ""
 interests:
@@ -23,7 +24,6 @@ social:
 organizations:
   - name: National Institute of Economic and Social Research (NIESR)
     url: https://www.niesr.ac.uk/people/zuniga-montanez-c
-role: Postdoctoral Research Associate
   - name: University of Leeds
     url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
