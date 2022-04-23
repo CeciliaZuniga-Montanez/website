@@ -16,7 +16,7 @@ experience:
     location: London, UK
     date_start: 2021-10-01
     date_end: ""
-    description: Postdoctoral Research Associate
+    description: Postdoctoral Research Associate working on the ICICLES project which explores the impact of the pandemic on children’s language, educational and socioemotional skills. 
   - title: Postdoctoral Researcher
     company: University of Leeds
     company_url: ""
