@@ -16,12 +16,9 @@ main:
   - name: Events
     url: '#events'
     weight: 50
-  - name: Talks
-    url: '#talk'
-    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
 
  #removing this - name: Posts
   #removing this    url: '#posts'
