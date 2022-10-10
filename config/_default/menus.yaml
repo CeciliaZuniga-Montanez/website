@@ -20,6 +20,7 @@ main:
     url: '#contact'
     weight: 60
 
+
  #removing this - name: Posts
   #removing this    url: '#posts'
   #removing this   weight: 30
