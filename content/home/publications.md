@@ -24,7 +24,7 @@ design:
 
 Davies, C., Ebbels, S., Nicoll, H., Syrett, K., White, S. & **Zuniga-Montanez, C.** (in press, International Journal of Language & Communication Disorders). Supporting Adjective Learning by Children with Developmental Language Disorder: Enhancing Metalinguistic Approaches. 
 
-Davies, C., Syrett, K., Taylor, L., Wilkes, S. & **Zuniga-Montanez, C.** (in press, Language and Linguistic Compass). Supporting Adjective Learning Across the Curriculum by 5-7 year-olds: Insights from Psychological Research. 
+Davies, C., Syrett, K., Taylor, L., Wilkes, S. & **Zuniga-Montanez, C.** (2022). Supporting Adjective Learning Across the Curriculum by 5-7 year-olds: Insights from Psychological Research. * *Language and Linguistic Compass* *, 16(11). https://doi.org/10.1111/lnc3.12476 
 
 **Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar ones.
 
