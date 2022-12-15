@@ -21,7 +21,7 @@ design:
   view: 4
 ---
 
-**Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar ones.
+**Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar ones. Preprint available at https://doi.org/10.31219/osf.io/y9mfz
 
 Davies, C., Ebbels, S., Nicoll, H., Syrett, K., White, S., **Zuniga-Montanez,C.** (2022) Supporting adjective learning by children with Developmental Language Disorder:Enhancing metalinguistic approaches. International Journal of Language & Communication Disorders,1–22. https://doi.org/10.1111/1460-6984.12792
 
