@@ -40,4 +40,4 @@ email: C.Zuniga-Montanez@niesr.ac.uk
 superuser: true
 highlight_name: true
 ---
-Hi, I am Cecilia. I am a Postdoctoral Research Associate at the National Institute of Economic and Social Research (NIESR) working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children's language, educational and socioemotional skills. I am also a Research Assistant at the University of Leeds, UK. My areas of interest include infant and child language and cognitive development, language delays and vocabulary interventions.
+I am a Postdoctoral Research Associate at the National Institute of Economic and Social Research (NIESR) working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children's language, educational and socioemotional skills. I am also a Research Assistant at the University of Leeds, UK. My areas of interest include infant and child language and cognitive development, language delays and vocabulary interventions.
