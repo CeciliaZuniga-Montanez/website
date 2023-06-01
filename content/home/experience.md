@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
- - title: Postdoctoral Research Associate
+- title: Postdoctoral Research Associate
    company: National Institute of Economic and Social Research (NIESR)
    company_url: ""
    location: London, UK
