@@ -4,7 +4,6 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.png
 bio: ""
 interests: 
-- Artificial Intelligence
 - Infant and child language development; Late talkers; Children born preterm; Vocabulary interventions; Developmental psychology
 social:
   - display:
@@ -31,7 +30,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: C.Zuniga- Montanez@niesr.ac.uk
+email: C.Zuniga- Montanez@sheffield.ac.uk
 superuser: true
 highlight_name: false
 ---
