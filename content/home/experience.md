@@ -22,20 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Associate
+  - title: Research Associate
     company: University of Sheffield
     company_url: ''
     location: Sheffield, UK
     date_start: 2023-06-01
     date_end: 
-    description: Postdoctoral Research Associate working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children’s language, educational and socioemotional skills. Previously based at the National Institute of Economic and Social Research (NIESR).
+    description: Research Associate working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children’s language, educational and socioemotional skills. Previously based at the National Institute of Economic and Social Research (NIESR).
   - title: Postdoctoral Researcher
     company: University of Leeds
     company_url: ''
     location: Leeds, UK
     date_start: 2022-04-01
     date_end:
-    description: Postdoctoral Research Assistant
+    description: Postdoctoral Researcher
   - title: Postdoctoral Research Associate
     company: National Institute of Economic and Social Research (NIESR)
     company_url: ''
