@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-- title: Postdoctoral Research Associate
+  - title: Postdoctoral Research Associate
     company: University of Sheffield
     company_url: ""
     location: Sheffield, UK
