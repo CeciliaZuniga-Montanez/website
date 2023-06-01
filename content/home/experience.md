@@ -85,4 +85,21 @@ experience:
     date_start: 2015-03-01
     date_end: 2016-07-31
     description: Support for children diagnosed with language disorders, learning disabilities and developmental disorders.
+  - title: Preschool teacher
+    company: SPLENDI Preschool
+    company_url: ''
+    location: Mexico
+    date_start: 2015-08-01
+    date_end: 2016-07-01
+    description: >-
+      * Preschool teacher for children between 3 to 4 years of age.
+      
+      * English teacher for children between 3 to 5 years of age.
+  - title: Special Needs Lead Worker
+    company: CETI Creciendo Juntos
+    company_url: ''
+    location: Mexico
+    date_start: 2012-08-01
+    date_end: 2013-06-01
+    description: Special Needs Lead Worker at mainstream and special needs schools supporting children diagnosed with ASD to develop academic, social and communication skills that could help them be more independent.
 ---
