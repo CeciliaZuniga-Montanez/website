@@ -64,7 +64,25 @@ experience:
       * Social Cognitive Development in Infancy and Childhood
 
       * Cognition in Infants and Children
+  - title: Coordinator of the Psycholinguistic Group
+    company: University of Birmingham
+    company_url: ''
+    location: Birmingham, UK
+    date_start: 2017-11-01
+    date_end: 2019-07-31
+    description: >-
+      Responsibilities included:
+      
+      * Coordinating lab meetings
 
-    
-    
+      * Organising presentations of research conducted by staff and students
+
+      * Organising discussion sessions
+  - title: Special Needs Support Worker
+    company: Private practice
+    company_url: ''
+    location: Mexico
+    date_start: 2015-03-01
+    date_end: 2016-07-31
+    description: Support for children diagnosed with language disorders, learning disabilities and developmental disorders.
 ---
