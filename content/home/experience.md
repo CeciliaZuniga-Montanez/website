@@ -29,7 +29,7 @@ experience:
     date_start: 2023-06-01
     date_end: 
     description: Postdoctoral Research Associate working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children’s language, educational and socioemotional skills. Previously based at the National Institute of Economic and Social Research (NIESR).
-  - title: Postdoctoral Research Assistant
+  - title: Postdoctoral Researcher
     company: University of Leeds
     company_url: ''
     location: Leeds, UK
