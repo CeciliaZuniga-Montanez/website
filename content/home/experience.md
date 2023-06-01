@@ -1,4 +1,6 @@
 ---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 active: true
 date_format: Jan 2006
