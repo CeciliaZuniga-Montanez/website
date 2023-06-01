@@ -112,7 +112,6 @@ experience:
     description: Special Needs Lead Worker at mainstream and special needs schools
       supporting children diagnosed with ASD to develop academic, social and
       communication skills that could help them be more independent.
-![image](https://github.com/CeciliaZuniga-Montanez/website/assets/81574617/78512f96-c035-4db6-bfed-41babf96c388)
 
     
 ---
