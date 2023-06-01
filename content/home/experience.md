@@ -3,13 +3,13 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
- - title: Postdoctoral Research Associate
-    company: University of Sheffield
+  - title: Postdoctoral Research Associate
+    company: National Institute of Economic and Social Research (NIESR)
     company_url: ""
-    location: Sheffield, UK
-    date_start: 2023-06-01
-    date_end: ""
-    description: Postdoctoral Research Associate working on the ICICLES project which explores the impact of the pandemic on children’s language, educational and socioemotional skills. Previously based at the National Institute of Economic and Social Research (NIESR).
+    location: London, UK
+    date_start: 2021-10-01
+    date_end: 2023-05-31
+    description: Postdoctoral Research Associate working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children’s language, educational and socioemotional skills. 
  - title: Postdoctoral Research Assistant
     company: University of Leeds
     company_url: ""
