@@ -22,7 +22,7 @@ social:
   link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
 organizations:
   - name: University of Sheffield 
-    url: 
+    url: https://www.sheffield.ac.uk/education/people/academic/cecilia-zuniga-montanez
   - name: University of Leeds
     url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
