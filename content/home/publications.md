@@ -21,11 +21,11 @@ design:
   view: 4
 ---
 
- _**Journal Articles**_
+# _**Journal Articles**_
 
 **Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar ones. Preprint available at https://osf.io/y9mfz/
 
-**Zuniga-Montanez, C.**, Fricke, S., Lisauskaite, E., Hutchinson, J., & Bowyer-Crane, C. (submitted). ‘Making sure that people are in a good place is draining, and nobody does that for me’: The pandemic and its ongoing impact on teachers and headteachers. Preprint available at https://osf.io/gfsnq
+**Zuniga-Montanez, C.**, Fricke, S., Lisauskaite, E., Hutchinson, J., & Bowyer-Crane, C. (under review). ‘Making sure that people are in a good place is draining, and nobody does that for me’: The pandemic and its ongoing impact on teachers and headteachers. Preprint available at https://osf.io/gfsnq
 
 Stokes, L., Runge, J., Rostron, J., Dorsett, R., Boshoff, J., Da Silva Marioni, L., **Zuniga-Montanez, C.**, Harvey, M., Stockland, K., Aleynikova, E., & Manzoni, C. (2023). Supervising Designated Safeguarding Leads in Primary Schools. What Works for Children’s Social Care. https://whatworks-csc.org.uk/research-report/supervising-designated-safeguarding-leads-dsls/
 
@@ -38,7 +38,7 @@ Davies, C., Syrett, K., Taylor, L., Wilkes, S. & **Zuniga-Montanez, C.** (2022).
 
 
 
-**_Reports_**
+#**_Reports_**
 
 Kitson, S.,  Runge, J., Stokes, L., Rostron, J., Aleynikova, E., Boshoff, J., Da Silva Marioni, L.,  Harvey, M., Stockland, K., **Zuniga-Montanez, C.** & Manzoni, C. (2023), Domestic Abuse and Schools: Evidence from the Supervision for Designated Safeguarding Leads Evaluation. *What Works for Children’s Social Care*. https://whatworks-csc.org.uk/research-report/supervising-designated-safeguarding-leads-dsls/
 
