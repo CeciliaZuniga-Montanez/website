@@ -21,7 +21,7 @@ design:
   view: 4
 ---
 
-**_Journal Articles_**
+#_**_Journal Articles_**_
 
 **Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar ones. Preprint available at https://osf.io/y9mfz/
 
