@@ -23,7 +23,7 @@ design:
 
  _**Journal Articles**_
  
-**Zuniga-Montanez, C**, Davies, C., Ligoxygakis, L., Kascelan, D. & Gonzalez-Gomez, N. (under review). How did COVID-19 affect young children’s language environment and language development? A scoping review.
+**Zuniga-Montanez, C**, Davies, C., Ligoxygakis, L., Kascelan, D. & Gonzalez-Gomez, N. (under review). How did COVID-19 affect young children’s language environment and language development? A scoping review. Preprint available at https://osf.io/sdcf3
 
 **Zuniga-Montanez, C**. & Krott, A. (under review). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar labels. Preprint available at https://osf.io/y9mfz/
 
