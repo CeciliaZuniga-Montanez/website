@@ -23,7 +23,7 @@ design:
 
  _**Journal Articles**_
  
-**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (submitted). Risk and Protective Factors Affecting Children's Socioemotional Skills in the First Year Post-Pandemic. Preprint link coming soon.
+**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (submitted). Risk and Protective Factors Affecting Children's Socioemotional Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/jrvhq
 
 **Zuniga-Montanez, C**, Davies, C., Ligoxygakis, L., Kascelan, D. & Gonzalez-Gomez, N. (under review). How did COVID-19 affect young children’s language environment and language development? A scoping review. Preprint available at https://osf.io/sdcf3
 
