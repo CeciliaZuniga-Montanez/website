@@ -3,7 +3,7 @@ title: "Research Priorities for Early Childhood Education and Care"
 abstract: ""
 location: "In-person"
 date: 2023-11-08
-date_end: 2023-10-08
+date_end: 2023-11-08
 all_day: false
 event: "Research Priorities for Early Childhood Education and Care"
 event_url: https://sites.google.com/view/research-priorities-ecec/home?pli=1
