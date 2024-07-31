@@ -11,7 +11,7 @@ publishDate: 2023-10-08T10:14:01.688Z
 draft: false
 featured: false
 image:
-  filename: ECEC
+  filename: featured
   focal_point: CENTER
   preview_only: false
 ---
