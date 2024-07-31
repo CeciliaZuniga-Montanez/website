@@ -2,8 +2,8 @@
 title: First International Congress of the Alumni Network SomosIbero (Universidad Iberoamericana, Mexico)
 abstract: ""
 location: Online
-date: 2021-05-27
-date_end: 2021-05-27
+date: 2021-05-27T14:00:35.694Z
+date_end: 2021-05-27T20:30:35.694Z
 all_day: false
 event: First International Congress of the Alumni Network SomosIbero (Universidad Iberoamericana, Mexico)
 event_url: https://egresados.ibero.mx/congresoegresados/
