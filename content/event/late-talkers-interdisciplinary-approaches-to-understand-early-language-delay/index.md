@@ -2,8 +2,8 @@
 title: "Late Talkers: Interdisciplinary Approaches to Understand Early Language Delay"
 abstract: ""
 location: "Online"
-date: 2021-08-23T13:45:35.694Z
-date_end: 2021-08-24T17:30:35.694Z
+date: 2021-08-23T13:45:35.694Z-T17:30:35.694Z
+date_end: 2021-08-24T13:45:35.694Z-T17:30:35.694Z
 all_day: false
 event: "Late talkers: Interdisciplinary approaches to understand early language delay"
 event_url: https://warwick.ac.uk/fac/cross_fac/ias/calendar/late-talker-workshop-2021/
