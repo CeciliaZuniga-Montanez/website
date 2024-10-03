@@ -34,7 +34,7 @@ experience:
     company_url: ''
     location: Leeds, UK
     date_start: 2022-04-01
-    date_end:
+    date_end: 2024-09-30
     description: Postdoctoral Researcher
   - title: Postdoctoral Research Associate
     company: National Institute of Economic and Social Research (NIESR)
