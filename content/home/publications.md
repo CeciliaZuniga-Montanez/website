@@ -31,7 +31,7 @@ design:
 
 **Zuniga-Montanez, C.**, Fricke, S., Lisauskaite, E., Hutchinson, J., & Bowyer-Crane, C. (under review). ‘Making sure that people are in a good place is draining, and nobody does that for me’: The pandemic and its ongoing impact on teachers and headteachers. Preprint available at https://osf.io/gfsnq
 
-**Zuniga-Montanez, C**. & Krott, A. (accepted). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar labels. *Journal of Child Language*. Preprint available at https://osf.io/y9mfz/
+**Zuniga-Montanez, C**. & Krott, A. (2024). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar labels. *Journal of Child Language*. https://doi.org/10.1017/S0305000924000163
 
 Davies, C., Ebbels, S., Nicoll, H., Syrett, K., White, S., **Zuniga-Montanez,C.** (2022) Supporting adjective learning by children with Developmental Language Disorder:Enhancing metalinguistic approaches. *International Journal of Language & Communication Disorders*,1–22. https://doi.org/10.1111/1460-6984.12792
 
