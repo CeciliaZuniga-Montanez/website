@@ -23,7 +23,7 @@ design:
 
  _**Journal Articles**_
  
-**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (submited). Factors Shaping Children's Language Skills in the First Year Post-Pandemic. Preprint link coming soon.
+**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (submited). Factors Shaping Children's Language Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/u7ahf
 
 **Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (under review). Risk and Protective Factors Affecting Children's Socioemotional Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/jrvhq
 
