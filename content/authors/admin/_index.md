@@ -23,8 +23,6 @@ social:
 organizations:
   - name: University of Sheffield 
     url: https://www.sheffield.ac.uk/education/people/academic/cecilia-zuniga-montanez
-  - name: University of Leeds
-    url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
 education:
   courses:
     - course: PhD in Psychology
