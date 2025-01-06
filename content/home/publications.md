@@ -29,7 +29,7 @@ design:
 
 **Zuniga-Montanez, C.**, Fricke, S., Lisauskaite, E., Hutchinson, J., & Bowyer-Crane, C. (under review). ‘Making sure that people are in a good place is draining, and nobody does that for me’: The pandemic and its ongoing impact on teachers and headteachers. Preprint available at https://osf.io/gfsnq
 
-**Zuniga-Montanez, C**, Davies, C., Ligoxygakis, L., Kascelan, D. & Gonzalez-Gomez, N. (accepted). How did COVID-19 affect young children’s language environment and language development? A scoping review. *Journal of Child Psychology and Psychiatry*. Preprint available at https://osf.io/sdcf3
+**Zuniga-Montanez, C.**, Davies, C., Ligoxygakis, L., Kašćelan, D., & Gonzalez‐Gomez, N. (2024). Annual Research Review: How did COVID‐19 affect young children's language environment and language development? A scoping review. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.14102
 
 **Zuniga-Montanez, C**. & Krott, A. (2024). Late Talkers can generalise trained labels by object shape similarities, but not unfamiliar labels. *Journal of Child Language*. 1-24. https://doi.org/10.1017/S0305000924000163
 
