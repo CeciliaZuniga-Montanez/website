@@ -33,7 +33,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: C.Zuniga-Montanez@sheffield.ac.uk
+email: cecilia.zunigamontanez@education.ox.ac.uk
 superuser: true
 highlight_name: true
 ---
