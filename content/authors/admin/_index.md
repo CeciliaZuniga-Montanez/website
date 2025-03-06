@@ -20,9 +20,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/did:plc:3mrg24sp4dxftgsbemko2zhd
 organizations:
-  - name: University of Sheffield 
-    url: https://www.sheffield.ac.uk/education/people/academic/cecilia-zuniga-montanez
+  - name: University of Oxford 
+    url: 
 education:
   courses:
     - course: PhD in Psychology
@@ -38,4 +41,4 @@ email: C.Zuniga-Montanez@sheffield.ac.uk
 superuser: true
 highlight_name: true
 ---
-I am a Research Associate at the University of Sheffield, UK. I am currently working on the [ICICLES project](https://www.iciclesproject.com/): a three-year longitudinal project exploring the impact of the pandemic on children's language, educational and socioemotional skills (previously based at the National Institute of Economic and Social Research). I have previously worked on various projects investigating typical and atypical language development in childhood at the University of Leeds and the National Institute of Economic and Social Research. My areas of interest include infant and child language and cognitive development, language delays and vocabulary interventions.
+I am a Research Associate at the University of Oxford, UK. I have previously worked on various projects investigating typical and atypical language development in childhood at the University of Sheffield, University of Leeds and the National Institute of Economic and Social Research. My areas of interest include infant and child language and cognitive development, language delays and vocabulary interventions.
