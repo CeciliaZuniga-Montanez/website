@@ -20,7 +20,7 @@ twitter: "@CeciZunigaM"
 
 # Contact (edit or remove options as required)
 
-email: "C.Zuniga-Montanez@sheffield.ac.uk"
+email: "cecilia.zunigamontanez@education.ox.ac.uk"
 phone: 
 address:
   street: 
@@ -37,18 +37,14 @@ office_hours:
  
 appointment_url: 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/CeciZunigaM'
   - icon: linkedin
     icon_pack: fab
     name: Click here
     link: 'https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/'
- # - icon: keybase
-  #  icon_pack: fab
-  #  name: Chat on Keybase
-   # link: 'https://keybase.io/'
+  - icon: bluesky
+    icon_pack: fab
+    name: DM me
+   # link: 'https://bsky.app/profile/cecizuniga.bsky.social'
   #- icon: comments
   #  icon_pack: fas
    # name: Discuss on Forum
