@@ -11,11 +11,6 @@ social:
     link: https://www.linkedin.com/in/cecilia-zuniga-montanez-9aab25a6/
     icon_pack: fas
     icon: <i class="fab fa-linkedin"></i>
-  - display: 
-      header: true
-    link: https://twitter.com/CeciZunigaM
-    icon_pack: fas
-    icon: <i class="fab fa-twitter"></i>
 organizations:
   - name: University of Leeds
     url: https://ahc.leeds.ac.uk/languages/staff/3301/dr-cecilia-zuniga-montanez
@@ -30,7 +25,7 @@ education:
     - course: Bachelor in Psychology
       institution: Universidad Iberoamericana, Mexico
       year: 2012
-email: C.Zuniga- Montanez@sheffield.ac.uk
+email: cecilia.zunigamontanez@education.ox.ac.uk
 superuser: true
 highlight_name: false
 ---
