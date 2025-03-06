@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Research Associate
+    company: University of Oxford
+    company_url: ''
+    location: Oxford, UK
+    date_start: 2025-03-01
+    date_end: 
+    description: Research Associate working on the [TICLD project ](https://www.ucc.ie/en/ticld/).
   - title: Research Associate
     company: University of Sheffield
     company_url: ''
     location: Sheffield, UK
     date_start: 2023-06-01
-    date_end: 
+    date_end: 2025-02-28
     description: Research Associate working on the [ICICLES project](https://www.iciclesproject.com/) which explores the impact of the pandemic on children’s language, educational and socioemotional skills. Previously based at the National Institute of Economic and Social Research (NIESR).
   - title: Postdoctoral Researcher
     company: University of Leeds
