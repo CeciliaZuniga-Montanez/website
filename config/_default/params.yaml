@@ -44,7 +44,7 @@ contact_links:
   - icon: bluesky
     icon_pack: fab
     name: DM me
-   # link: 'https://bsky.app/profile/cecizuniga.bsky.social'
+    link: 'https://bsky.app/profile/cecizuniga.bsky.social'
   #- icon: comments
   #  icon_pack: fas
    # name: Discuss on Forum
