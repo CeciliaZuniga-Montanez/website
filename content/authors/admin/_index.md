@@ -5,9 +5,8 @@ avatar_filename: fw7tis94_400x400.png
 bio: ""
 interests:
   - Infant and child language development
-  - Late talkers
-  - Children born preterm
-  - Vocabulary interventions
+  - Cognitive development
+  - Language interventions
   - Developmental psychology
 social:
 - icon: envelope
@@ -21,7 +20,7 @@ social:
   link: https://bsky.app/profile/did:plc:3mrg24sp4dxftgsbemko2zhd
 organizations:
   - name: University of Oxford 
-    url: 
+    url: https://www.education.ox.ac.uk/person/cecilia-zuniga-montanez/
 education:
   courses:
     - course: PhD in Psychology
