@@ -23,11 +23,11 @@ design:
 
  _**Journal Articles**_
  
-**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (under review). Factors Shaping Children's Language Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/u7ahf
-
 **Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (under review). Risk and Protective Factors Affecting Children's Socioemotional Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/jrvhq
 
 **Zuniga-Montanez, C.**, Fricke, S., Lisauskaite, E., Hutchinson, J., & Bowyer-Crane, C. (under review). ‘Making sure that people are in a good place is draining, and nobody does that for me’: The pandemic and its ongoing impact on teachers and headteachers. Preprint available at https://osf.io/gfsnq
+
+**Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (accepted). Factors Shaping Children's Language Skills in the First Year Post-Pandemic. *Journal of Early Childhood Research.* Preprint available at https://osf.io/preprints/osf/u7ahf
 
 **Zuniga-Montanez, C.**, Davies, C., Ligoxygakis, L., Kašćelan, D., & Gonzalez‐Gomez, N. (2024). Annual Research Review: How did COVID‐19 affect young children's language environment and language development? A scoping review. *Journal of Child Psychology and Psychiatry.* https://doi.org/10.1111/jcpp.14102
 
