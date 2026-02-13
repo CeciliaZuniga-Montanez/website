@@ -44,7 +44,10 @@ Davies, C., Syrett, K., Taylor, L., Wilkes, S. & **Zuniga-Montanez, C.** (2022).
 
 
 
-**_Reports_**
+**_Research Reports_**
+
+Bowyer-Crane, C., **Zuniga-Montanez, C.**, Fricke, S., Hutchinson, J., & Lisauskaite, E. (2026). The impact of COVID-19 on educational, language & socioemotional outcomes in
+Reception and KS1. https://www.iciclesproject.com/_files/ugd/d162e9_96af1fe14d0f4d0e9b270aed87a66fd1.pdf
 
 Kitson, S.,  Runge, J., Stokes, L., Rostron, J., Aleynikova, E., Boshoff, J., Da Silva Marioni, L.,  Harvey, M., Stockland, K., **Zuniga-Montanez, C.** & Manzoni, C. (2023), Domestic Abuse and Schools: Evidence from the Supervision for Designated Safeguarding Leads Evaluation. *What Works for Children’s Social Care*. https://whatworks-csc.org.uk/research-report/supervising-designated-safeguarding-leads-dsls/
 
