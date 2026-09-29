@@ -27,7 +27,7 @@ design:
  
 **Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S. & Bowyer-Crane, C. (under review). Risk and Protective Factors Affecting Children's Socioemotional Skills in the First Year Post-Pandemic. Preprint available at https://osf.io/preprints/osf/jrvhq
 
-**Zuniga-Montanez, C.**, Lisauskaite E, Hutchinson J, Fricke S and Bowyer-Crane C (2026) ‘Making sure that people are in a good place is draining, and nobody does that for me’: the pandemic and its ongoing impact on teachers and headteachers. Front. Educ. 11:1931792. [doi: 10.3389/feduc.2026.1931792](https://doi.org/10.3389/feduc.2026.1931792)
+**Zuniga-Montanez, C.**, Lisauskaite E, Hutchinson J, Fricke S and Bowyer-Crane C (2026) ‘Making sure that people are in a good place is draining, and nobody does that for me’: the pandemic and its ongoing impact on teachers and headteachers. *Front. Educ.* 11:1931792. [doi: 10.3389/feduc.2026.1931792](https://doi.org/10.3389/feduc.2026.1931792)
 
 **Zuniga-Montanez, C.**, Lisauskaite, E., Hutchinson, J., Fricke, S., & Bowyer-Crane, C. (2025). Factors shaping children’s language skills in the first year following the Covid-19 pandemic. *Journal of Early Childhood Research*. https://doi.org/10.1177/1476718X251393797
 
